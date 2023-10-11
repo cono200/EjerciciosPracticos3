@@ -114,14 +114,10 @@ namespace EjerciciosPracticos3
             }
 
 
-            Console.WriteLine($"{letras[0, 0]} {letras[1, 0]}");
-            Console.WriteLine();
-            Console.WriteLine($"{letras[0, 1]} {letras[1, 1]}");
-            Console.WriteLine();
-            Console.WriteLine($"{letras[0, 2]} {letras[1, 2]}");
-            Console.WriteLine();
-            Console.WriteLine($"{letras[0, 3]} {letras[1, 3]}");
-            Console.WriteLine();
+            Console.WriteLine($"{letras[0, 0]} {letras[1, 0]} {letras[0, 1]} {letras[1, 1]}");
+        
+            Console.WriteLine($"{letras[0, 2]} {letras[1, 2]} {letras[0, 3]} {letras[1, 3]}");
+           
 
 
 
